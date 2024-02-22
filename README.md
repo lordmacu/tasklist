@@ -9,7 +9,6 @@ El proyecto sigue la siguiente estructura de carpetas y archivos:
 - **components**: Contiene los componentes de React utilizados en la aplicación.
   - **TaskItem.js**: Componente que muestra una tarea individual en la lista.
   - **TaskList.js**: Componente que muestra la lista de tareas.
-  - **...otros componentes...**
 - **redux**: Contiene los archivos relacionados con Redux para el manejo del estado global.
   - **actions**: Contiene las acciones Redux para realizar operaciones relacionadas con las tareas.
     - **taskActions.js**: Archivo con las acciones para realizar operaciones CRUD en las tareas.
