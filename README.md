@@ -1,5 +1,7 @@
 # Mi App de Tareas
 
+![Captura de Pantalla de la Aplicación](assets/captures/capture.jpeg)
+
 Este proyecto es una aplicación de gestión de tareas desarrollada utilizando React Native y Expo. Permite a los usuarios crear, editar y eliminar tareas, además de conectarse a una API para almacenar y recuperar datos de tareas.
 
 ## Estructura del Proyecto
